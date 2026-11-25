@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Determinantes dos Preços da Habitação em Portugal (AMP & AML, 2009–2026)"
+message: "If you use this dashboard or any of its charts, please cite it using the metadata below."
+type: dataset
+authors:
+  - family-names: Fonseca
+    given-names: Nuno
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-11-25"
+keywords:
+  - housing prices
+  - Portugal
+  - Lisbon Metropolitan Area
+  - Porto Metropolitan Area
+  - econometrics
+  - dashboard
