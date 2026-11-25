@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="980" viewBox="0 0 1440 980">
+<rect x="0" y="0" width="1440" height="980" fill="#f8fafc"/>
+<rect x="16" y="16" width="1408" height="948" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="44" y="56" font-family="sans-serif" font-size="23" font-weight="700" fill="#0f172a">Apartamentos ao Longo do Tempo: Como o Preço Acompanha os 4 Motores (2009–2026)</text>
+<text x="44" y="83" font-family="sans-serif" font-size="13.5" fill="#475569">Evolução conjunta do preço real (€/m² constantes de 2026) e dos 4 principais motores empíricos selecionados pelo modelo TWFE · Média AMP + AML</text>
+<line x1="44" y1="98" x2="1396" y2="98" stroke="#e2e8f0" stroke-width="1.2"/>
+<rect x="44" y="114" width="660" height="382" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.2"/>
+<rect x="44" y="114" width="660" height="42" rx="10" fill="#f1f5f9"/>
+<rect x="58" y="124" width="50" height="22" rx="6" fill="#e11d48"/>
+<text x="83" y="139" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">32%</text>
+<text x="118" y="140" font-family="sans-serif" font-size="14" font-weight="700" fill="#0f172a">1. Preço vs. Densidade Espacial de AL (t-1)</text>
+<text x="60" y="178" font-family="sans-serif" font-size="11.8" fill="#475569">Série observada (2010–2026): 0,0 → 13,5</text>
+<line x1="112" y1="450.0" x2="640" y2="450.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="104" y="454.0" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">800 €</text>
+<line x1="112" y1="367.7" x2="640" y2="367.7" stroke="#e2e8f0" stroke-width="1"/>
+<text x="104" y="371.7" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">1 530 €</text>
+<line x1="112" y1="284.3" x2="640" y2="284.3" stroke="#e2e8f0" stroke-width="1"/>
+<text x="104" y="288.3" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">2 270 €</text>
+<line x1="112" y1="202.0" x2="640" y2="202.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="104" y="206.0" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">3 000 €</text>
+<text x="648" y="454.0" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#e11d48">0,0</text>
+<text x="648" y="371.3" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#e11d48">5,0</text>
+<text x="648" y="288.7" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#e11d48">10,1</text>
+<text x="648" y="206.0" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#e11d48">15,1</text>
+<text x="112.0" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2010</text>
+<text x="178.0" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2012</text>
+<text x="277.0" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2015</text>
+<text x="376.0" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2018</text>
+<text x="475.0" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2021</text>
+<text x="574.0" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2024</text>
+<text x="640.0" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2026</text>
+<polyline fill="none" stroke="#0f172a" stroke-width="2.6" stroke-dasharray="6 3" points="145.0,404.9 178.0,419.5 211.0,425.6 244.0,425.5 277.0,424.7 310.0,420.3 343.0,409.1 376.0,393.9 409.0,375.4 442.0,359.1 475.0,346.9 508.0,336.0 541.0,328.9 574.0,318.4 607.0,278.3 640.0,241.1"/>
+<circle cx="640.0" cy="241.1" r="4.2" fill="#0f172a"/>
+<polyline fill="none" stroke="#e11d48" stroke-width="3.0" stroke-linecap="round" points="112.0,449.6 145.0,449.2 178.0,448.0 211.0,447.3 244.0,445.6 277.0,441.7 310.0,430.9 343.0,414.4 376.0,385.4 409.0,343.6 442.0,321.6 475.0,312.3 508.0,299.4 541.0,272.6 574.0,251.3 607.0,246.1 640.0,228.5"/>
+<circle cx="640.0" cy="228.5" r="4.5" fill="#e11d48"/>
+<rect x="120" y="206" width="290" height="38" rx="5" fill="#ffffff" fill-opacity="0.92" stroke="#e2e8f0" stroke-width="0.9"/>
+<text x="128" y="221" font-family="sans-serif" font-size="10.8" font-weight="700" fill="#0f172a">-- Preço Apartamentos (€/m², esq.)</text>
+<text x="128" y="237" font-family="sans-serif" font-size="10.8" font-weight="700" fill="#e11d48">― Registos AL / km² (t-1) (dir.)</text>
+<rect x="736" y="114" width="660" height="382" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.2"/>
+<rect x="736" y="114" width="660" height="42" rx="10" fill="#f1f5f9"/>
+<rect x="750" y="124" width="50" height="22" rx="6" fill="#e11d48"/>
+<text x="775" y="139" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">18%</text>
+<text x="810" y="140" font-family="sans-serif" font-size="14" font-weight="700" fill="#0f172a">2. Preço vs. Novos Registos de AL (t-1)</text>
+<text x="752" y="178" font-family="sans-serif" font-size="11.8" fill="#475569">Série observada (2010–2026): 1 → 75</text>
+<line x1="804" y1="450.0" x2="1332" y2="450.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="796" y="454.0" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">800 €</text>
+<line x1="804" y1="367.7" x2="1332" y2="367.7" stroke="#e2e8f0" stroke-width="1"/>
+<text x="796" y="371.7" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">1 530 €</text>
+<line x1="804" y1="284.3" x2="1332" y2="284.3" stroke="#e2e8f0" stroke-width="1"/>
+<text x="796" y="288.3" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">2 270 €</text>
+<line x1="804" y1="202.0" x2="1332" y2="202.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="796" y="206.0" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">3 000 €</text>
+<text x="1340" y="454.0" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#e11d48">0</text>
+<text x="1340" y="371.3" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#e11d48">74</text>
+<text x="1340" y="288.7" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#e11d48">149</text>
+<text x="1340" y="206.0" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#e11d48">223</text>
+<text x="804.0" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2010</text>
+<text x="870.0" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2012</text>
+<text x="969.0" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2015</text>
+<text x="1068.0" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2018</text>
+<text x="1167.0" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2021</text>
+<text x="1266.0" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2024</text>
+<text x="1332.0" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2026</text>
+<polyline fill="none" stroke="#0f172a" stroke-width="2.6" stroke-dasharray="6 3" points="837.0,404.9 870.0,419.5 903.0,425.6 936.0,425.5 969.0,424.7 1002.0,420.3 1035.0,409.1 1068.0,393.9 1101.0,375.4 1134.0,359.1 1167.0,346.9 1200.0,336.0 1233.0,328.9 1266.0,318.4 1299.0,278.3 1332.0,241.1"/>
+<circle cx="1332.0" cy="241.1" r="4.2" fill="#0f172a"/>
+<polyline fill="none" stroke="#e11d48" stroke-width="3.0" stroke-linecap="round" points="804.0,449.1 837.0,447.6 870.0,445.4 903.0,445.9 936.0,441.8 969.0,428.7 1002.0,390.1 1035.0,361.2 1068.0,304.3 1101.0,228.5 1134.0,343.4 1167.0,408.0 1200.0,392.6 1233.0,340.6 1266.0,345.0 1299.0,424.3 1332.0,366.4"/>
+<circle cx="1332.0" cy="366.4" r="4.5" fill="#e11d48"/>
+<rect x="812" y="206" width="290" height="38" rx="5" fill="#ffffff" fill-opacity="0.92" stroke="#e2e8f0" stroke-width="0.9"/>
+<text x="820" y="221" font-family="sans-serif" font-size="10.8" font-weight="700" fill="#0f172a">-- Preço Apartamentos (€/m², esq.)</text>
+<text x="820" y="237" font-family="sans-serif" font-size="10.8" font-weight="700" fill="#e11d48">― Novos AL / ano (t-1) (dir.)</text>
+<rect x="44" y="518" width="660" height="382" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.2"/>
+<rect x="44" y="518" width="660" height="42" rx="10" fill="#f1f5f9"/>
+<rect x="58" y="528" width="50" height="22" rx="6" fill="#0f766e"/>
+<text x="83" y="543" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">17%</text>
+<text x="118" y="544" font-family="sans-serif" font-size="14" font-weight="700" fill="#0f172a">3. Preço vs. Emprego por Conta de Outrem (t)</text>
+<text x="60" y="582" font-family="sans-serif" font-size="11.8" fill="#475569">Série observada (2009–2025): 353 → 410</text>
+<line x1="112" y1="854.0" x2="640" y2="854.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="104" y="858.0" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">800 €</text>
+<line x1="112" y1="771.7" x2="640" y2="771.7" stroke="#e2e8f0" stroke-width="1"/>
+<text x="104" y="775.7" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">1 530 €</text>
+<line x1="112" y1="688.3" x2="640" y2="688.3" stroke="#e2e8f0" stroke-width="1"/>
+<text x="104" y="692.3" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">2 270 €</text>
+<line x1="112" y1="606.0" x2="640" y2="606.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="104" y="610.0" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">3 000 €</text>
+<text x="648" y="858.0" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#0f766e">301</text>
+<text x="648" y="775.3" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#0f766e">342</text>
+<text x="648" y="692.7" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#0f766e">382</text>
+<text x="648" y="610.0" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#0f766e">422</text>
+<text x="112.0" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2009</text>
+<text x="205.2" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2012</text>
+<text x="298.4" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2015</text>
+<text x="391.5" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2018</text>
+<text x="484.7" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2021</text>
+<text x="577.9" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2024</text>
+<text x="640.0" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2026</text>
+<polyline fill="none" stroke="#0f172a" stroke-width="2.6" stroke-dasharray="6 3" points="174.1,808.9 205.2,823.5 236.2,829.6 267.3,829.5 298.4,828.7 329.4,824.3 360.5,813.1 391.5,797.9 422.6,779.4 453.6,763.1 484.7,750.9 515.8,740.0 546.8,732.9 577.9,722.4 608.9,682.3 640.0,645.1"/>
+<circle cx="640.0" cy="645.1" r="4.2" fill="#0f172a"/>
+<polyline fill="none" stroke="#0f766e" stroke-width="3.0" stroke-linecap="round" points="112.0,748.5 143.1,754.3 174.1,777.5 205.2,814.2 236.2,833.7 267.3,820.5 298.4,797.7 329.4,775.9 360.5,747.2 391.5,714.3 422.6,688.1 453.6,695.2 484.7,695.3 515.8,666.3 546.8,653.7 577.9,645.7 608.9,630.4"/>
+<circle cx="608.9" cy="630.4" r="4.5" fill="#0f766e"/>
+<rect x="120" y="610" width="290" height="38" rx="5" fill="#ffffff" fill-opacity="0.92" stroke="#e2e8f0" stroke-width="0.9"/>
+<text x="128" y="625" font-family="sans-serif" font-size="10.8" font-weight="700" fill="#0f172a">-- Preço Apartamentos (€/m², esq.)</text>
+<text x="128" y="641" font-family="sans-serif" font-size="10.8" font-weight="700" fill="#0f766e">― TCO / 1 000 hab. (t) (dir.)</text>
+<rect x="736" y="518" width="660" height="382" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.2"/>
+<rect x="736" y="518" width="660" height="42" rx="10" fill="#f1f5f9"/>
+<rect x="750" y="528" width="50" height="22" rx="6" fill="#2563eb"/>
+<text x="775" y="543" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">12%</text>
+<text x="810" y="544" font-family="sans-serif" font-size="14" font-weight="700" fill="#0f172a">4. Preço vs. Índice de Envelhecimento (t-2)</text>
+<text x="752" y="582" font-family="sans-serif" font-size="11.8" fill="#475569">Série observada (2011–2026): 103 → 168</text>
+<line x1="804" y1="854.0" x2="1332" y2="854.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="796" y="858.0" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">800 €</text>
+<line x1="804" y1="771.7" x2="1332" y2="771.7" stroke="#e2e8f0" stroke-width="1"/>
+<text x="796" y="775.7" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">1 530 €</text>
+<line x1="804" y1="688.3" x2="1332" y2="688.3" stroke="#e2e8f0" stroke-width="1"/>
+<text x="796" y="692.3" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">2 270 €</text>
+<line x1="804" y1="606.0" x2="1332" y2="606.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="796" y="610.0" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">3 000 €</text>
+<text x="1340" y="858.0" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#2563eb">96</text>
+<text x="1340" y="775.3" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#2563eb">123</text>
+<text x="1340" y="692.7" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#2563eb">149</text>
+<text x="1340" y="610.0" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#2563eb">176</text>
+<text x="804.0" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2011</text>
+<text x="839.2" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2012</text>
+<text x="944.8" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2015</text>
+<text x="1050.4" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2018</text>
+<text x="1156.0" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2021</text>
+<text x="1261.6" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2024</text>
+<text x="1332.0" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2026</text>
+<polyline fill="none" stroke="#0f172a" stroke-width="2.6" stroke-dasharray="6 3" points="804.0,808.9 839.2,823.5 874.4,829.6 909.6,829.5 944.8,828.7 980.0,824.3 1015.2,813.1 1050.4,797.9 1085.6,779.4 1120.8,763.1 1156.0,750.9 1191.2,740.0 1226.4,732.9 1261.6,722.4 1296.8,682.3 1332.0,645.1"/>
+<circle cx="1332.0" cy="645.1" r="4.2" fill="#0f172a"/>
+<polyline fill="none" stroke="#2563eb" stroke-width="3.0" stroke-linecap="round" points="804.0,833.7 839.2,818.0 874.4,807.1 909.6,796.8 944.8,781.7 980.0,766.3 1015.2,749.4 1050.4,734.6 1085.6,718.0 1120.8,702.3 1156.0,684.2 1191.2,665.7 1226.4,651.0 1261.6,651.9 1296.8,642.6 1332.0,630.4"/>
+<circle cx="1332.0" cy="630.4" r="4.5" fill="#2563eb"/>
+<rect x="812" y="610" width="290" height="38" rx="5" fill="#ffffff" fill-opacity="0.92" stroke="#e2e8f0" stroke-width="0.9"/>
+<text x="820" y="625" font-family="sans-serif" font-size="10.8" font-weight="700" fill="#0f172a">-- Preço Apartamentos (€/m², esq.)</text>
+<text x="820" y="641" font-family="sans-serif" font-size="10.8" font-weight="700" fill="#2563eb">― Idosos / 100 Jovens (t-2) (dir.)</text>
+<rect x="44" y="918" width="1352" height="36" rx="8" fill="#f1f5f9"/>
+<text x="64" y="940" font-family="sans-serif" font-size="11.5" fill="#334155">Nota: A linha tracejada preta é idêntica nos 4 painéis (preço médio real dos apartamentos nos 35 concelhos: 1 200 €/m² → 2 653 €/m² em 2026).</text>
+</svg>

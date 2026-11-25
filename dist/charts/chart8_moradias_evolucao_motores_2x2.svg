@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="980" viewBox="0 0 1440 980">
+<rect x="0" y="0" width="1440" height="980" fill="#f8fafc"/>
+<rect x="16" y="16" width="1408" height="948" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="44" y="56" font-family="sans-serif" font-size="23" font-weight="700" fill="#0f172a">Moradias ao Longo do Tempo: Como o Preço Acompanha os 4 Motores (2009–2026)</text>
+<text x="44" y="83" font-family="sans-serif" font-size="13.5" fill="#475569">Evolução conjunta do preço real (€/m² constantes de 2026) e dos 4 principais motores empíricos selecionados pelo modelo TWFE · Média AMP + AML</text>
+<line x1="44" y1="98" x2="1396" y2="98" stroke="#e2e8f0" stroke-width="1.2"/>
+<rect x="44" y="114" width="660" height="382" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.2"/>
+<rect x="44" y="114" width="660" height="42" rx="10" fill="#f1f5f9"/>
+<rect x="58" y="124" width="50" height="22" rx="6" fill="#e11d48"/>
+<text x="83" y="139" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">33%</text>
+<text x="118" y="140" font-family="sans-serif" font-size="14" font-weight="700" fill="#0f172a">1. Preço vs. Densidade Espacial de AL (t-2)</text>
+<text x="60" y="178" font-family="sans-serif" font-size="11.8" fill="#475569">Série observada (2011–2026): 0,0 → 12,4</text>
+<line x1="112" y1="450.0" x2="640" y2="450.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="104" y="454.0" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">1 000 €</text>
+<line x1="112" y1="367.9" x2="640" y2="367.9" stroke="#e2e8f0" stroke-width="1"/>
+<text x="104" y="371.9" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">1 530 €</text>
+<line x1="112" y1="284.1" x2="640" y2="284.1" stroke="#e2e8f0" stroke-width="1"/>
+<text x="104" y="288.1" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">2 070 €</text>
+<line x1="112" y1="202.0" x2="640" y2="202.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="104" y="206.0" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">2 600 €</text>
+<text x="648" y="454.0" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#e11d48">0,0</text>
+<text x="648" y="371.3" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#e11d48">4,6</text>
+<text x="648" y="288.7" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#e11d48">9,3</text>
+<text x="648" y="206.0" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#e11d48">13,9</text>
+<text x="112.0" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2011</text>
+<text x="147.2" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2012</text>
+<text x="252.8" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2015</text>
+<text x="358.4" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2018</text>
+<text x="464.0" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2021</text>
+<text x="569.6" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2024</text>
+<text x="640.0" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2026</text>
+<polyline fill="none" stroke="#0f172a" stroke-width="2.6" stroke-dasharray="6 3" points="112.0,388.2 147.2,422.5 182.4,432.9 217.6,427.3 252.8,428.3 288.0,417.8 323.2,408.0 358.4,384.5 393.6,366.4 428.8,345.1 464.0,335.0 499.2,318.9 534.4,311.1 569.6,304.6 604.8,276.5 640.0,242.0"/>
+<circle cx="640.0" cy="242.0" r="4.2" fill="#0f172a"/>
+<polyline fill="none" stroke="#e11d48" stroke-width="3.0" stroke-linecap="round" points="112.0,449.6 147.2,449.2 182.4,447.8 217.6,447.1 252.8,445.2 288.0,441.0 323.2,429.3 358.4,411.3 393.6,379.8 428.8,334.5 464.0,310.5 499.2,300.4 534.4,286.4 569.6,257.3 604.8,234.2 640.0,228.5"/>
+<circle cx="640.0" cy="228.5" r="4.5" fill="#e11d48"/>
+<rect x="120" y="206" width="290" height="38" rx="5" fill="#ffffff" fill-opacity="0.92" stroke="#e2e8f0" stroke-width="0.9"/>
+<text x="128" y="221" font-family="sans-serif" font-size="10.8" font-weight="700" fill="#0f172a">-- Preço Moradias (€/m², esq.)</text>
+<text x="128" y="237" font-family="sans-serif" font-size="10.8" font-weight="700" fill="#e11d48">― Registos AL / km² (t-2) (dir.)</text>
+<rect x="736" y="114" width="660" height="382" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.2"/>
+<rect x="736" y="114" width="660" height="42" rx="10" fill="#f1f5f9"/>
+<rect x="750" y="124" width="50" height="22" rx="6" fill="#2563eb"/>
+<text x="775" y="139" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">22%</text>
+<text x="810" y="140" font-family="sans-serif" font-size="14" font-weight="700" fill="#0f172a">2. Preço vs. Índice de Envelhecimento (t)</text>
+<text x="752" y="178" font-family="sans-serif" font-size="11.8" fill="#475569">Série observada (2009–2025): 103 → 175</text>
+<line x1="804" y1="450.0" x2="1332" y2="450.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="796" y="454.0" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">1 000 €</text>
+<line x1="804" y1="367.9" x2="1332" y2="367.9" stroke="#e2e8f0" stroke-width="1"/>
+<text x="796" y="371.9" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">1 530 €</text>
+<line x1="804" y1="284.1" x2="1332" y2="284.1" stroke="#e2e8f0" stroke-width="1"/>
+<text x="796" y="288.1" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">2 070 €</text>
+<line x1="804" y1="202.0" x2="1332" y2="202.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="796" y="206.0" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">2 600 €</text>
+<text x="1340" y="454.0" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#2563eb">95</text>
+<text x="1340" y="371.3" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#2563eb">125</text>
+<text x="1340" y="288.7" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#2563eb">154</text>
+<text x="1340" y="206.0" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#2563eb">184</text>
+<text x="804.0" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2009</text>
+<text x="897.2" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2012</text>
+<text x="990.4" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2015</text>
+<text x="1083.5" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2018</text>
+<text x="1176.7" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2021</text>
+<text x="1269.9" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2024</text>
+<text x="1332.0" y="467" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2026</text>
+<polyline fill="none" stroke="#0f172a" stroke-width="2.6" stroke-dasharray="6 3" points="866.1,388.2 897.2,422.5 928.2,432.9 959.3,427.3 990.4,428.3 1021.4,417.8 1052.5,408.0 1083.5,384.5 1114.6,366.4 1145.6,345.1 1176.7,335.0 1207.8,318.9 1238.8,311.1 1269.9,304.6 1300.9,276.5 1332.0,242.0"/>
+<circle cx="1332.0" cy="242.0" r="4.2" fill="#0f172a"/>
+<polyline fill="none" stroke="#2563eb" stroke-width="3.0" stroke-linecap="round" points="804.0,429.7 835.1,415.6 866.1,405.7 897.2,396.4 928.2,382.8 959.3,368.9 990.4,353.6 1021.4,340.3 1052.5,325.3 1083.5,311.1 1114.6,294.8 1145.6,278.1 1176.7,264.8 1207.8,265.7 1238.8,257.3 1269.9,246.3 1300.9,226.4"/>
+<circle cx="1300.9" cy="226.4" r="4.5" fill="#2563eb"/>
+<rect x="812" y="206" width="290" height="38" rx="5" fill="#ffffff" fill-opacity="0.92" stroke="#e2e8f0" stroke-width="0.9"/>
+<text x="820" y="221" font-family="sans-serif" font-size="10.8" font-weight="700" fill="#0f172a">-- Preço Moradias (€/m², esq.)</text>
+<text x="820" y="237" font-family="sans-serif" font-size="10.8" font-weight="700" fill="#2563eb">― Idosos / 100 Jovens (t) (dir.)</text>
+<rect x="44" y="518" width="660" height="382" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.2"/>
+<rect x="44" y="518" width="660" height="42" rx="10" fill="#f1f5f9"/>
+<rect x="58" y="528" width="50" height="22" rx="6" fill="#0f766e"/>
+<text x="83" y="543" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">13%</text>
+<text x="118" y="544" font-family="sans-serif" font-size="14" font-weight="700" fill="#0f172a">3. Preço vs. Ganho Médio Mensal (t-2)</text>
+<text x="60" y="582" font-family="sans-serif" font-size="11.8" fill="#475569">Série observada (2011–2026): 1 007 € → 1 541 €</text>
+<line x1="112" y1="854.0" x2="640" y2="854.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="104" y="858.0" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">1 000 €</text>
+<line x1="112" y1="771.9" x2="640" y2="771.9" stroke="#e2e8f0" stroke-width="1"/>
+<text x="104" y="775.9" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">1 530 €</text>
+<line x1="112" y1="688.1" x2="640" y2="688.1" stroke="#e2e8f0" stroke-width="1"/>
+<text x="104" y="692.1" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">2 070 €</text>
+<line x1="112" y1="606.0" x2="640" y2="606.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="104" y="610.0" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">2 600 €</text>
+<text x="648" y="858.0" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#0f766e">953 €</text>
+<text x="648" y="775.3" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#0f766e">1 171 €</text>
+<text x="648" y="692.7" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#0f766e">1 388 €</text>
+<text x="648" y="610.0" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#0f766e">1 606 €</text>
+<text x="112.0" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2011</text>
+<text x="147.2" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2012</text>
+<text x="252.8" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2015</text>
+<text x="358.4" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2018</text>
+<text x="464.0" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2021</text>
+<text x="569.6" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2024</text>
+<text x="640.0" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2026</text>
+<polyline fill="none" stroke="#0f172a" stroke-width="2.6" stroke-dasharray="6 3" points="112.0,792.2 147.2,826.5 182.4,836.9 217.6,831.3 252.8,832.3 288.0,821.8 323.2,812.0 358.4,788.5 393.6,770.4 428.8,749.1 464.0,739.0 499.2,722.9 534.4,715.1 569.6,708.6 604.8,680.5 640.0,646.0"/>
+<circle cx="640.0" cy="646.0" r="4.2" fill="#0f172a"/>
+<polyline fill="none" stroke="#0f766e" stroke-width="3.0" stroke-linecap="round" points="112.0,833.7 147.2,817.2 182.4,810.9 217.6,805.1 252.8,808.8 288.0,809.1 323.2,803.1 358.4,793.2 393.6,784.4 428.8,774.0 464.0,761.7 499.2,747.3 534.4,733.1 569.6,708.4 604.8,672.2 640.0,630.4"/>
+<circle cx="640.0" cy="630.4" r="4.5" fill="#0f766e"/>
+<rect x="120" y="610" width="290" height="38" rx="5" fill="#ffffff" fill-opacity="0.92" stroke="#e2e8f0" stroke-width="0.9"/>
+<text x="128" y="625" font-family="sans-serif" font-size="10.8" font-weight="700" fill="#0f172a">-- Preço Moradias (€/m², esq.)</text>
+<text x="128" y="641" font-family="sans-serif" font-size="10.8" font-weight="700" fill="#0f766e">― Salário Médio € (t-2) (dir.)</text>
+<rect x="736" y="518" width="660" height="382" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.2"/>
+<rect x="736" y="518" width="660" height="42" rx="10" fill="#f1f5f9"/>
+<rect x="750" y="528" width="50" height="22" rx="6" fill="#e11d48"/>
+<text x="775" y="543" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">11%</text>
+<text x="810" y="544" font-family="sans-serif" font-size="14" font-weight="700" fill="#0f172a">4. Preço vs. Novos Registos de AL (t-2)</text>
+<text x="752" y="582" font-family="sans-serif" font-size="11.8" fill="#475569">Série observada (2011–2026): 1 → 23</text>
+<line x1="804" y1="854.0" x2="1332" y2="854.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="796" y="858.0" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">1 000 €</text>
+<line x1="804" y1="771.9" x2="1332" y2="771.9" stroke="#e2e8f0" stroke-width="1"/>
+<text x="796" y="775.9" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">1 530 €</text>
+<line x1="804" y1="688.1" x2="1332" y2="688.1" stroke="#e2e8f0" stroke-width="1"/>
+<text x="796" y="692.1" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">2 070 €</text>
+<line x1="804" y1="606.0" x2="1332" y2="606.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="796" y="610.0" text-anchor="end" font-family="sans-serif" font-size="10" fill="#334155">2 600 €</text>
+<text x="1340" y="858.0" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#e11d48">0</text>
+<text x="1340" y="775.3" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#e11d48">74</text>
+<text x="1340" y="692.7" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#e11d48">149</text>
+<text x="1340" y="610.0" text-anchor="start" font-family="sans-serif" font-size="10" font-weight="700" fill="#e11d48">223</text>
+<text x="804.0" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2011</text>
+<text x="839.2" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2012</text>
+<text x="944.8" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2015</text>
+<text x="1050.4" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2018</text>
+<text x="1156.0" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2021</text>
+<text x="1261.6" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2024</text>
+<text x="1332.0" y="871" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#475569">2026</text>
+<polyline fill="none" stroke="#0f172a" stroke-width="2.6" stroke-dasharray="6 3" points="804.0,792.2 839.2,826.5 874.4,836.9 909.6,831.3 944.8,832.3 980.0,821.8 1015.2,812.0 1050.4,788.5 1085.6,770.4 1120.8,749.1 1156.0,739.0 1191.2,722.9 1226.4,715.1 1261.6,708.6 1296.8,680.5 1332.0,646.0"/>
+<circle cx="1332.0" cy="646.0" r="4.2" fill="#0f172a"/>
+<polyline fill="none" stroke="#e11d48" stroke-width="3.0" stroke-linecap="round" points="804.0,853.1 839.2,851.6 874.4,849.4 909.6,849.9 944.8,845.8 980.0,832.7 1015.2,794.1 1050.4,765.2 1085.6,708.3 1120.8,632.5 1156.0,747.4 1191.2,812.0 1226.4,796.6 1261.6,744.6 1296.8,749.0 1332.0,828.3"/>
+<circle cx="1332.0" cy="828.3" r="4.5" fill="#e11d48"/>
+<rect x="812" y="610" width="290" height="38" rx="5" fill="#ffffff" fill-opacity="0.92" stroke="#e2e8f0" stroke-width="0.9"/>
+<text x="820" y="625" font-family="sans-serif" font-size="10.8" font-weight="700" fill="#0f172a">-- Preço Moradias (€/m², esq.)</text>
+<text x="820" y="641" font-family="sans-serif" font-size="10.8" font-weight="700" fill="#e11d48">― Novos AL / ano (t-2) (dir.)</text>
+<rect x="44" y="918" width="1352" height="36" rx="8" fill="#f1f5f9"/>
+<text x="64" y="940" font-family="sans-serif" font-size="11.5" fill="#334155">Nota: A linha tracejada preta é idêntica nos 4 painéis (preço médio real das moradias nos 35 concelhos: 1 399 €/m² → 2 342 €/m² em 2026).</text>
+</svg>
