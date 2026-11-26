@@ -2,7 +2,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Interactive dashboard (`dist/index.html`) and publication-ready charts (`dist/charts/`) analysing housing price determinants across the **35 municipalities of the Lisbon (AML, 18) and Porto (AMP, 17) Metropolitan Areas** over **2009–2026** (constant 2026 €/m², 100% official empirical data).
+Interactive dashboard (`dist/index.html`) and publication-ready charts (`dist/charts/`) analysing housing price determinants across the **35 municipalities of the Lisbon (AML, 18) and Porto (AMP, 17) Metropolitan Areas** over **2009–2026** (constant 2026 €/m²).
 
 ## Contents
 
